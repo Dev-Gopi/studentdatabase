@@ -15,7 +15,7 @@ import java.sql.Statement;
  * mvn clean package shade:shade
  * {
  *     "studentRoll" : "1",
- *     "studentName" : "Gopinath Bhowmick",
+ *     "studentName" : "Gopi Bhowmick",
  *     "studentStream" : "BCA",
  *     "studentTotalMarks" : "9.8",
  *     "studentAddress" : "Kolkata"
